@@ -1,0 +1,7 @@
+Maven
+target/*.war*.ear*.zip*.tar*.tar.gzinstall/
+Eclipse
+.classpath.project.settings/.checkstyle.factorypathbin/**/*.launch
+IntelliJ (por si acaso alguien usa otro IDE)
+.idea/*.iml*.iws*.iprOS junk.DS_StoreThumbs.db
+Logs*.log
